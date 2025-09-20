@@ -1,12 +1,12 @@
 # 💊 HealthBell - Medicine Reminder App
 
-<img src="images/readme/splash.png" alt="Splash Screen" width="200"/>
-<img src="images/readme/home.png" alt="Home page" width="200"/>
-<img src="images/readme/notification.png" alt="Notification" width="200"/>
-<img src="images/readme/add-med.png" alt="Add Medication" width="200"/>
-<img src="images/readme/celender.png" alt="Celender page" width="200"/>
-<img src="images/readme/history.png" alt="History page" width="200"/>
-<img src="images/readme/refill.png" alt="Refill page" width="200"/>
+<img src="/assets/images/readme/splash.png" alt="Splash Screen" width="200"/>
+<img src="/assets/images/readme/home.png" alt="Home page" width="200"/>
+<img src="/assets/images/readme/notification.png" alt="Notification" width="200"/>
+<img src="/assets/images/readme/add-med.png" alt="Add Medication" width="200"/>
+<img src="/assets/images/readme/celender.png" alt="Celender page" width="200"/>
+<img src="/assets/images/readme/history.png" alt="History page" width="200"/>
+<img src="/assets/images/readme/refill.png" alt="Refill page" width="200"/>
 
 1. Install dependencies
 
