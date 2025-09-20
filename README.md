@@ -1,13 +1,13 @@
 # 💊 HealthBell - Medicine Reminder App
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
-  <img src="/assets/images/readme/splash.png" alt="Splash Screen" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/home.png" alt="Home page" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/notification.png" alt="Notification" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/add-med.png" alt="Add Medication" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/celender.png" alt="Celender page" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/history.png" alt="History page" style="height: 700px; object-fit: contain;"/>
-  <img src="/assets/images/readme/refill.png" alt="Refill page" style="height: 700px; object-fit: contain;"/>
+  <img src="/assets/images/readme/splash.png" alt="Splash Screen" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/home.png" alt="Home page" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/notification.png" alt="Notification" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/add-med.png" alt="Add Medication" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/celender.png" alt="Celender page" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/history.png" alt="History page" style="height: 200px; object-fit: contain;"/>
+  <img src="/assets/images/readme/refill.png" alt="Refill page" style="height: 200px; object-fit: contain;"/>
 </div>
 
 1. Install dependencies
