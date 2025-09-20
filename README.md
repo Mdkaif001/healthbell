@@ -1,12 +1,14 @@
 # 💊 HealthBell - Medicine Reminder App
 
-<img src="/assets/images/readme/splash.png" alt="Splash Screen" width="200"/>
-<img src="/assets/images/readme/home.png" alt="Home page" width="200"/>
-<img src="/assets/images/readme/notification.png" alt="Notification" width="200"/>
-<img src="/assets/images/readme/add-med.png" alt="Add Medication" width="200"/>
-<img src="/assets/images/readme/celender.png" alt="Celender page" width="200"/>
-<img src="/assets/images/readme/history.png" alt="History page" width="200"/>
-<img src="/assets/images/readme/refill.png" alt="Refill page" width="200"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="/assets/images/readme/splash.png" alt="Splash Screen" width="200"/>
+  <img src="/assets/images/readme/home.png" alt="Home page" width="200"/>
+  <img src="/assets/images/readme/notification.png" alt="Notification" width="200"/>
+  <img src="/assets/images/readme/add-med.png" alt="Add Medication" width="200"/>
+  <img src="/assets/images/readme/celender.png" alt="Celender page" width="200"/>
+  <img src="/assets/images/readme/history.png" alt="History page" width="200"/>
+  <img src="/assets/images/readme/refill.png" alt="Refill page" width="200"/>
+</div>
 
 1. Install dependencies
 
